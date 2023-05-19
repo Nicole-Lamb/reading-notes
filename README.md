@@ -18,15 +18,15 @@ My objective in these notes are the following:
 - [x] Share my progress with others
 
 ### Growth Mindset
-- What is Growth Mindset?
+1. What is Growth Mindset?
 It is an empowering perspective that allows you to learn and achieve more.  
 Instead of thinking you can only do x, y, or z, think about adding to that with, and I haven't learned a, b, or c... yet! 
 This is an example of growth mindset.
 
-- What are 3 reminders to help stay in a growth mindset?
-1. YET - Use the word "yet" when speaking about something I don't know. Ex: "I don't understand Javascript for loops... yet."
-2. BE PRESENT - When I get stuck, am being hard on myself, or want to quit - this is a time to stop and realize I am in a fixed mindset.
-3. OPPORTUNITY - When there is something I don't know, remember this is an opportunity for growth, not a weakness or lack of intelligence.
+2. What are 3 reminders to help stay in a growth mindset?
+   - YET - Use the word "yet" when speaking about something I don't know. Ex: "I don't understand Javascript for loops... yet."
+   - BE PRESENT - When I get stuck, am being hard on myself, or want to quit - this is a time to stop and realize I am in a fixed mindset.
+   - OPPORTUNITY - When there is something I don't know, remember this is an opportunity for growth, not a weakness or lack of intelligence.
 
-To end with a quote:
+#### To end with a quote:
 > Experience is the name everyone gives to their mistakes. – Oscar Wilde
