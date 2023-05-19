@@ -11,10 +11,11 @@ Check out my portfolio [here](https://github.com/Nicole-Lamb).
 - This is my first time using Markdown. However, I noticed it to be very similar to the syntax Trello uses, because as it turns out that, they are using a modified version of Markdown!
 
 My objective in these notes are the following:
-[x] - To learn Markdown
-[x] - To use 5 different features of Markdown
-[x] - To explain Growth Mindset
-[x] - Share my progress with others
+
+- [x] To learn Markdown
+- [x] To use 5 different features of Markdown
+- [x] To explain Growth Mindset
+- [x] Share my progress with others
 
 ### Growth Mindset
 - What is Growth Mindset?
