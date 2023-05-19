@@ -1,6 +1,6 @@
-# Welcome to my ** Reading Notes **!
+# Welcome to my **Reading Notes**!
 
-#### ** My name is __Nicole Lamb__. I am based out of Seattle, WA, USA. ** !(/flag-usa-solid-black.svg) :us:
+#### **My name is __Nicole Lamb__. I am based out of Seattle, WA, USA.** !(/flag-usa-solid-black.svg) :us:
 Check out my portfolio [here](https://github.com/Nicole-Lamb).
 
 ### About Me
