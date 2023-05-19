@@ -1,9 +1,9 @@
-#Welcome to my **Reading Notes**!
+# Welcome to my ** Reading Notes **!
 
-####**My name is __Nicole Lamb__. I am based out of Seattle, WA, USA.** !(/flag-usa-solid-black.svg) :us:
+#### ** My name is __Nicole Lamb__. I am based out of Seattle, WA, USA. ** !(/flag-usa-solid-black.svg) :us:
 Check out my portfolio [here](https://github.com/Nicole-Lamb).
 
-###About Me
+### About Me
 - I grew up in the south and northeast before falling in love with the northwest.
 - I'm a comic and video gagme nerd.
 - I began to learn how to code through self-study and mentorship from a friend of mine from 2020-2022. 
@@ -16,7 +16,7 @@ My objective in these notes are the following:
 [x] - To explain Growth Mindset
 [x] - Share my progress with others
 
-###Growth Mindset
+### Growth Mindset
 - What is Growth Mindset?
 It is an empowering perspective that allows you to learn and achieve more.  
 Instead of thinking you can only do x, y, or z, think about adding to that with, and I haven't learned a, b, or c... yet! 
