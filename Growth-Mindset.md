@@ -7,7 +7,6 @@ In the words of [Chop Chop Master Onion](https://parappatherapper.fandom.com/wik
 
 #### My objective in these notes are the following:
 
-- [x]  Share more about myself so you can get to know me.
 - [x]  To use 5 different features of Markdown on this page.
 - [x]  To explain and remind myself about Growth Mindset.
 - [x]  Share my progress with others.
