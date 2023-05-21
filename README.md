@@ -10,4 +10,9 @@ Check out my portfolio [_here_](https://github.com/Nicole-Lamb).
 - I am taking Code 102 through Code Fellows Self-Paced program to refresh on skills I have and build where I have gaps. 
 - This is my first time using Markdown. I have noticed the similarity to the syntax Trello uses. As it turns out, they are using a modified version of Markdown!
 
+### Table of Contents
 
+#### Code 102
+
++ [Growth Mindset](/Growth-Mindset.md)
++ [Markdown](/Markdown.md)
