@@ -16,6 +16,7 @@ Check out my portfolio [_here_](https://github.com/Nicole-Lamb).
 + [Growth Mindset](/Growth-Mindset.md)
 + [Markdown](/Markdown.md)
 + [Coder's Computer](/Coders-Computer.md)
++ [Revisions and the Cloud](/Revisions-Cloud.md)
 
 
 
