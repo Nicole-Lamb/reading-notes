@@ -6,7 +6,7 @@
 
 Please see below for answers to your most pressing questions to Text Editors and the Terminal
 
-## Q: What are four important features to look for in a text editor?
+### Q: What are four important features to look for in a text editor?
 
 Answer:
 
@@ -29,7 +29,7 @@ Answer:
     - They aren't just to look pretty! They can also help with avoiding eye strain when a dark mode is available. Again, the more features that allow
     flexibility the better.
 
-## Q: What do the following commands do?
+### Q: What do the following commands do?
 
 Answer:
 
@@ -56,7 +56,7 @@ Answer:
 
     - Used to create new files. Don't forget to add the file extensions (ex: .txt, .doc, .pdf etc)
 
-## Q: Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
+### Q: Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 
 Answer:
 

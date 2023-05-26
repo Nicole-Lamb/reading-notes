@@ -18,14 +18,14 @@ A: To create a heading, you will use the # symbol before the text and include a 
 
     `Ex: # Heading`
 
-## Q: How many symbols do you need to create the largest heading? And how many symbols are needed for the smallest heading?
+### Q: How many symbols do you need to create the largest heading? And how many symbols are needed for the smallest heading?
 
 A: Heading sizes range between x1 # and x6 #. To make the largest you will use 1 x # (#), and the smallest uses 6 x # (######).
 
     Ex: # Huge Heading
     Ex: ###### Tiny Heading
 
-## Q: When making text bold or italicized for emphasis, it is best practice to use which symbol?
+### Q: When making text bold or italicized for emphasis, it is best practice to use which symbol?
 
 A: You can use either * or _ symbols when making text bold of italicized. To start take the text that you want to make bold, wrap text in either symbol `*` or `_`. Bold use double the symbols, while italicised uses single symbols. Place the symbol(s) in front and back on text you want affected.
 
@@ -36,7 +36,8 @@ A: You can use either * or _ symbols when making text bold of italicized. To sta
 
 ### *Italicized*
 
-    Ex: *This text is Italicized* or _This text is Italicized_
+    Ex: *This text is Italicized*
+    Ex: _This text is Italicized_
   
 You can use these two in combination as well by using different symbols for each.
 
@@ -46,7 +47,7 @@ How it appears:
 
 + **This text is bold and *this text is bold and italicized*!**
 
-## Q: How do you create a link with Markdown?
+### Q: How do you create a link with Markdown?
 
 A: Take the text you want to hyperlink and wrap in [].
 
