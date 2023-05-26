@@ -1,8 +1,6 @@
 # The Coder's Computer
 
-## Text Editor & The Terminal
-
-### Welcome to the Coder's FAQ
+## Welcome to the Coder's FAQ: Text Editor & The Terminal
 
 Please see below for answers to your most pressing questions to Text Editors and the Terminal
 
