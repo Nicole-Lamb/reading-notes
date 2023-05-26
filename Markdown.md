@@ -45,7 +45,7 @@ You can use these two in combination as well by using different symbols for each
 
 How it appears:
 
-+ **This text is bold and *this text is bold and italicized*!**
+**This text is bold and *this text is bold and italicized***
 
 ### Q: How do you create a link with Markdown?
 
