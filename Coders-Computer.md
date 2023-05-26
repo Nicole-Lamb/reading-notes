@@ -10,21 +10,21 @@ Please see below for answers to your most pressing questions to Text Editors and
 
 Answer:
 
-1) **Code Completion**
+1. **Code Completion**
 
     - This is similar to predictive text that you see in emails and text messges. As you start to type you can press a button
     (depending on the editor) and it will complete it. If it doesn't know the exact option a drop down will appear for you to choose.
 
-2) **Syntax Highlighting**
+2. **Syntax Highlighting**
 
     - This color codes the different syntax (or set of rules to a language), so that it helps to understand the formatting and not just seeing plain blocks of code.
 
-3) **Extensions**
+3. **Extensions**
 
     - These allow for even more customization of your text editor with useful tools that can alleviate pain points and provide additional assitance while coding.
     Having a nice amount to choose from provides more flexibility into the coding experience.
 
-4) **Themes**
+4. **Themes**
 
     - They aren't just to look pretty! They can also help with avoiding eye strain when a dark mode is available. Again, the more features that allow
     flexibility the better.
@@ -33,26 +33,26 @@ Answer:
 
 Answer:
 
-1) `pwd` = Print Working Directory
+1. `pwd` = Print Working Directory
 
     - This is the terminal's version of You Are Here. It tells you what directory (or folder) you are currently in.
 
-2) `ls` = list
+2. `ls` = list
 
     - This will list everything in your current directory.
     - Go to the directory you want to inspect and enter ls.
 
-3) `cd` = Change Directory
+3. `cd` = Change Directory
 
     - This allows you to move to different directories.
     - To do this write `cd <directory>` Replace what is between <> with the directory you want to change to.
 
-4) `mkdir` = Make Directory
+4. `mkdir` = Make Directory
 
     - Used to create new folders
     - To do this write `mkdir <FolderName>` Replace what is between <> with the directory you want to create.
 
-5) `touch` = Create File
+5. `touch` = Create File
 
     - Used to create new files. Don't forget to add the file extensions (ex: .txt, .doc, .pdf etc)
 
@@ -60,24 +60,24 @@ Answer:
 
 Answer:
 
-1) `cd projects`
+1. `cd projects`
 
     - This is changing the directory (cd) to the projects folder.
 
-2) `mkdir new-project`
+2. `mkdir new-project`
 
     - This is making (mkdir) a new directory that is named new-project.
 
-3) `touch new-project/newfile.md`
+3. `touch new-project/newfile.md`
 
     - This is making (touch) a new file (newfile.md) in the folder new-project.
     - This will go to that directory (new-project) and create the new file (newfile.md).
 
-4) `cd ..`
+4. `cd ..`
 
     - This is changing directories by going back to the previous folder.
     - Changes with x1 . stays in the same directory, x2 .. goes back one, etc.
 
-5) `ls projects/new-project`
+5. `ls projects/new-project`
 
     - This is listing (ls) everything in the folder (new-project) by moving/changing directories through the path projects -> new-project.
