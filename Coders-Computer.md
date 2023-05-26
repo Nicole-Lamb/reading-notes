@@ -1,6 +1,6 @@
 # The Coder's Computer
 
-## Text Editor
+## Text Editor & The Terminal
 
 ### Welcome to the Coder's FAQ
 
