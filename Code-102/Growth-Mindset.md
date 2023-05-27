@@ -3,7 +3,7 @@
 In the words of [Chop Chop Master Onion](https://parappatherapper.fandom.com/wiki/Chop_Chop_Master_Onion)
 "Kick. Punch. It's all in the mind."
 
-![Master Onion from PaRappa the Rapper](../reading-notes/Code-102/Assets/ChopChopMasterOnion.jpg)
+![Master Onion from PaRappa the Rapper](Code-102/Assets/ChopChopMasterOnion.jpg)
 
 ## Growth Mindset
 
