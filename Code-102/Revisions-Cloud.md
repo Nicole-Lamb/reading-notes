@@ -12,7 +12,7 @@ A: It is a snapshot of your work that can be reverted back to. It's a way to und
 
 A: It makes a copy of a project (hence, clone) and allows you to bring it into your local (your computer) to work on it outside of GitHub.
 
-### Q: What is the command to track and stage files?
+### Q: What is the command to track and stage files?q
 
 A: `git add <fileName>` or `git add .` (which does all files within that folder - the dot stands for all).
 

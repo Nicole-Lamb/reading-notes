@@ -31,7 +31,7 @@ This site is used to take Code 102. I'll be using Markdown, HTML, CSS, and JavaS
 
 ### Code 201
 
-- [Link 1](..link1.md)
+- [Link 1](Code-201/link1.md)
 - [Link 2](Code-201/link2.md)
 - [Link 3](Code-201/link3.md)
 - [Link 4](Code-201/link4.md)
