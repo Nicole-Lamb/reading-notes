@@ -10,7 +10,7 @@ A: HTML or HyperText Markup Language is a markup language (it's in the name!). A
 
 - This code is used to structure a website. For a basic layout (without style or sizing) you can use this to make the beginnings of a website.
 
-- Think of it as the bare bones or basic structure of house. You have a foundation, walls, and a roof. You will still need to paint the house, furnish it, and include utilizities. But at least you got the house started! That's what HTML accomplishes.
+- Think of it as the bare bones or basic structure of house. You have a foundation, walls, and a roof. You will still need to paint the house, furnish it, and include utilities. But at least you got the house started! That's what HTML accomplishes.
 
 - Adding in CSS and Javascript will refine, furnish, and bring functionality to your home, but you need to start with a basic structure to then build off of.
 
@@ -18,8 +18,8 @@ A: HTML or HyperText Markup Language is a markup language (it's in the name!). A
 
 A: The entirety of parts is called an element. The 3 main parts of an element is an opening tag, the content within, and a closing tag.
 
-- There are self-closing tags which will not include a closing tag, only an opening tag and content.
-- An example of this is < h1 > Content < / h1 >. To use this code, close the space within the <>.
+- An example of this is `<h1>Content</h1>`.
+- Note: there are self-closing tags which will not include a closing tag, only an opening tag and content.
 
 ### Q: What is it called when you give an element extra information?
 
