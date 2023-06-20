@@ -6,19 +6,29 @@ Please see below for answers to your most pressing questions!
 
 ### Q: What is HTML and why do we use it?
 
-A:
+A: HTML or HyperText Markup Language is a markup language used to structure a website. For a basic layout (without style or sizing) you can use this code to make the beginnings of a website. Think of it as the bare bones or basic structure of house. You have a foundation, walls, and a roof. You will still need to paint the house, furnish it, and include utilizities. But at least you got the house started! That's what HTML accomplishes.
+
+- Adding in CSS and Javascript will refine, furnish, and bring functionality to your home, but you need to start with a basic structure to then build off of.
 
 ### Q: What are the 3 main parts of an HTML element?
 
-A:
+A: The entirety of parts is called an element. The 3 main parts of an element are an opening tag, the content within, and a closing tag.
+
+- There are self-closing tags which will not include a closing tag, only an opening tag and content.
+- An example of this is < h1 > Content < / h1 >. To use this code, close the space with the <>.
 
 ### Q: What is it called when you give an element extra information?
 
-A:
+A: Attribute. This provides extra information that will not be seen on the website. This allows us to give a an identifier that can be used to adjust or provide information to an element.
+
+- Attributes that set a value will include:
+  - (1) a space between the element/ previous attribute
+  - (2) The attrivute will be followed by an equal sign
+  - (3) The Value will be wrapped in quotation marks.
 
 ### Q: What is a semantic element?
 
-A:
+A: Semantics = Meaning. Think about the purpose of this code, and what role it plays. Instead of thinking about the appearance, when talking about semantics, we are thinking about why it is there and what its effect is.
 
 ### **Additional Notes**
 
