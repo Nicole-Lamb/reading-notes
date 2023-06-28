@@ -8,7 +8,7 @@ Please see below for answers to your most pressing questions!
 
 A: To add style and modify the structure of a webpage. This can be achieved a number of ways to be able to manipulate the content.
 
-If you think of each HTML element as a box, CSS can modify those boxes postioning, coloring, sizing, padding, etc. There are lots of options!
+If you think of each HTML element as a box, CSS can modify those boxes positioning, coloring, sizing, padding, etc. There are lots of options!
 
 ### Q: What are the three ways to insert CSS into your project?
 
@@ -27,7 +27,7 @@ Answer:
 
 `p {color: red}`
 
-### Additonal Notes:
+### Additional Notes
 
 #### Reference Websites
 
