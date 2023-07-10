@@ -4,7 +4,19 @@
 
 Please see below for answers to your most pressing questions!
 
-### Q
+### Q: What are variables in JavaScript?
+
+A:
+
+### Q: What does it mean to declare a variable?
+
+A:
+
+### Q: What is an “assignment” operator, and what does it do?
+
+A:
+
+### Q: What is information received from the user called?
 
 A:
 
