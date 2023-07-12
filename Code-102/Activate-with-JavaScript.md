@@ -39,11 +39,9 @@ A: It is noted (syntax) as an `=` but doesn't operate as such. It acts as the br
 
 A: Input.
 
-- For example, the `prompt()` function will ask the user for **input.** This value will then be saved to use for other purposes.
+- For example, the `prompt()` function will ask the user for information, that is referred to as input. The user can then enter a value and this can be saved to use for other purposes.
 
 ### **Additional Notes**
-
-7/5/23 - Lecture at 0:28
 
 Reading Links
 
@@ -65,3 +63,5 @@ Reading Links
         - Names can also begin with $ and _ (but we will not use it in this tutorial).
         - Names are case sensitive (y and Y are different variables).
         - Reserved words (like JavaScript keywords) cannot be used as names.
+
+7/5/23 - Lecture at 0:28
