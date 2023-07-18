@@ -43,6 +43,8 @@ A: Input.
 
 ### **Additional Notes**
 
+7/5/23 - Lecture at 0:28
+
 Reading Links
 
 - [JS Intro Paragraph](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -63,5 +65,3 @@ Reading Links
         - Names can also begin with $ and _ (but we will not use it in this tutorial).
         - Names are case sensitive (y and Y are different variables).
         - Reserved words (like JavaScript keywords) cannot be used as names.
-
-7/5/23 - Lecture at 0:28
