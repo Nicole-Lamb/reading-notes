@@ -43,8 +43,6 @@ A: Input.
 
 ### **Additional Notes**
 
-7/5/23 - Lecture at 0:28
-
 Reading Links
 
 - [JS Intro Paragraph](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
