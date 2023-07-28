@@ -26,12 +26,16 @@ A: The code inside the function will execute when "something" invokes (calls) th
 - When it is invoked (called) from JavaScript code
 - Automatically (self invoked)
 
+In other words, calling a function means making a command or rule.
+
 ### Q: What are the parenthesis () for when you define a function?
 
 A: Function parameters are listed inside the parentheses () in the function definition.
 
 - Function arguments are the values received by the function when it is invoked.
 - Inside the function, the arguments (the parameters) behave as local variables.
+
+In other words, parameters are placeholder names the function needs to do its job. The parathesis is where they are stored to then run when the function is called. It will then execute using those placeholders as variables to use within the funstion.
 
 ### **Additional Notes**
 
